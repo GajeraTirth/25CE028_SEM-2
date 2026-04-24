@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1774093793 source:d:\codeblock project\c++ lang code\practical file\practical 3.2\sum of integers\main.cpp
+	<iostream>
+	"sum of integers.h"
+	<vector>
+	<chrono>
+
+1774093673 d:\codeblock project\c++ lang code\practical file\practical 3.2\sum of integers\include\sum of integers.h
+	<iostream>
+	<vector>
+
+1774093794 source:d:\codeblock project\c++ lang code\practical file\practical 3.2\sum of integers\src\sum of integers.cpp
+	<iostream>
+	<vector>
+	"sum of integers.h"
+

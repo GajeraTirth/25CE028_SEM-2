@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1776692586 source:d:\codeblock project\c++ lang code\practical file\practical 4.3\practical 4.3\main.cpp
+	<iostream>
+	"merge.h"
+
+1776692559 d:\codeblock project\c++ lang code\practical file\practical 4.3\practical 4.3\include\merge.h
+
+1776692572 source:d:\codeblock project\c++ lang code\practical file\practical 4.3\practical 4.3\src\merge.cpp
+	<iostream>
+	"merge.h"
+
