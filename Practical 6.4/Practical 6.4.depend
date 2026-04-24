@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1776882873 source:d:\codeblock project\c++ lang code\practical file\practical 6.4\practical 6.4\src\account.cpp
+	<iostream>
+	"account.h"
+
+1776882865 d:\codeblock project\c++ lang code\practical file\practical 6.4\practical 6.4\include\account.h
+	<string>
+

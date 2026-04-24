@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1774862971 source:d:\codeblock project\c++ lang code\practical file\practical 3.5\main.cpp
+	<iostream>
+	"SuperDigit.h"
+
+1774863271 d:\codeblock project\c++ lang code\practical file\practical 3.5\include\superdigit.h
+	<string>
+
+1774863261 source:d:\codeblock project\c++ lang code\practical file\practical 3.5\src\superdigit.cpp
+	"SuperDigit.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1776794489 source:d:\codeblock project\c++ lang code\practical file\practical 6.2\practical 6.2\src\hierarchy.cpp
+	<iostream>
+	"hierarchy.h"
+
+1776794474 d:\codeblock project\c++ lang code\practical file\practical 6.2\practical 6.2\include\hierarchy.h
+	<string>
+

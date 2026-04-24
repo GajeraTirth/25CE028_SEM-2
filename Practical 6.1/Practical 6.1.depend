@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1776794273 source:d:\codeblock project\c++ lang code\practical file\practical 6.1\practical 6.1\main.cpp
+	<iostream>
+	"shape.h"
+
+1776794252 d:\codeblock project\c++ lang code\practical file\practical 6.1\practical 6.1\include\shape.h
+
+1776794262 source:d:\codeblock project\c++ lang code\practical file\practical 6.1\practical 6.1\src\shape.cpp
+	"shape.h"
+
