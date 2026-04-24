@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1777049755 source:d:\ccp exam\project\practical 9.1\main.cpp
+	<iostream>
+	<vector>
+	"VectorUtils.h"
+
+1777049756 d:\ccp exam\project\practical 9.1\vectorutils.h
+	<vector>
+
+1777049717 source:d:\ccp exam\project\practical 9.1\vectorutils.cpp
+	"VectorUtils.h"
+	<algorithm>
+	<iostream>
+

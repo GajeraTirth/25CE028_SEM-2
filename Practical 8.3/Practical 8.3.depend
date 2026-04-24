@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1777044350 source:d:\ccp exam\project\practical 8.3\main.cpp
+	"InsufficientBalanceException.h"
+
+1777044266 d:\ccp exam\project\practical 8.3\insufficientbalanceexception.h
+	<iostream>
+	<string>
+
+1777044359 source:d:\ccp exam\project\practical 8.3\insufficientbalanceexception.cpp
+	"InsufficientBalanceException.h"
+

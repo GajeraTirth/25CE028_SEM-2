@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1777050483 source:d:\ccp exam\project\practical 9.3\setutils.cpp
+	"SetUtils.h"
+	<iostream>
+
+1777050471 d:\ccp exam\project\practical 9.3\setutils.h
+	<set>
+	<vector>
+
+1777050506 source:d:\ccp exam\project\practical 9.3\main.cpp
+	<iostream>
+	<vector>
+	"SetUtils.h"
+
