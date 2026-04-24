@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1777043285 source:d:\ccp exam\project\practical 8.2\main.cpp
+	<iostream>
+	"NegativeNumberException.h"
+
+1777043248 d:\ccp exam\project\practical 8.2\negativenumberexception.h
+	<iostream>
+
+1777043261 source:d:\ccp exam\project\practical 8.2\pra8.2.cpp
+	<iostream>
+	"NegativeNumberException.h"
+
+1777043431 source:d:\ccp exam\project\practical 8.2\negativenumberexception.cpp
+	<cmath>
+	"NegativeNumberException.h"
+	"NegativeNumberException.h"
+
