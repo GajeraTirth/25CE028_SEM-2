@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1776692927 source:d:\codeblock project\c++ lang code\practical file\practical 5.1\practical 5.1\main.cpp
+	<iostream>
+	"wordfreq.h"
+
+1776692906 d:\codeblock project\c++ lang code\practical file\practical 5.1\practical 5.1\include\wordfreq.h
+	<string>
+
+1776692918 source:d:\codeblock project\c++ lang code\practical file\practical 5.1\practical 5.1\src\wordfreq.cpp
+	<iostream>
+	"wordfreq.h"
+

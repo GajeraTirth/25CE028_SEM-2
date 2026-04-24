@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1776693286 source:d:\codeblock project\c++ lang code\practical file\practical 5.2\practical 5.2\main.cpp
+	<iostream>
+	"filecounter.h"
+
+1776693267 d:\codeblock project\c++ lang code\practical file\practical 5.2\practical 5.2\include\filecounter.h
+	<string>
+
+1776693277 source:d:\codeblock project\c++ lang code\practical file\practical 5.2\practical 5.2\src\filecounter.cpp
+	<iostream>
+	<fstream>
+	"filecounter.h"
+
