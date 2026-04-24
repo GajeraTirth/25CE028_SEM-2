@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1771584216 source:d:\codeblock project\c++ lang code\practical\practical 2.5\main.cpp
+	<iostream>
+	"Loan_account.h"
+
+1771584172 d:\codeblock project\c++ lang code\practical\practical 2.5\include\loan_account.h
+	<iostream>
+
+1771584218 source:d:\codeblock project\c++ lang code\practical\practical 2.5\src\loan_account.cpp
+	<iostream>
+	<string>
+	"Loan_account.h"
+	<cmath>
+
