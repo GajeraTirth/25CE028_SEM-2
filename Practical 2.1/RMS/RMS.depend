@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1772419800 source:d:\codeblock project\c++ lang code\practical\practical 2.1\rms.cpp
+	"RMS.h"
+
+1772419800 d:\codeblock project\c++ lang code\practical\practical 2.1\rms.h
+	<iostream>
+
+1772420053 source:d:\codeblock project\c++ lang code\practical\practical 2.1\rms\main.cpp
+	<iostream>
+	<vector>
+	"../RMS.h"
+

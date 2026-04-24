@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1772380068 source:d:\codeblock project\c++ lang code\practical\practical 1.2\library.cpp
+	<iostream>
+	"Library.h"
+
+1772380101 d:\codeblock project\c++ lang code\practical\practical 1.2\library.h
+	<string>
+

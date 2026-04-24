@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1772420503 source:d:\codeblock project\c++ lang code\practical\practical 2.2\student.cpp
+	"student.h"
+
+1772420482 d:\codeblock project\c++ lang code\practical\practical 2.2\student.h
+	<iostream>
+

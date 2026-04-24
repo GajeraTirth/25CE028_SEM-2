@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1772368434 source:d:\codeblock project\c++ lang code\practical\practical 1.1\bank_acc.cpp
+	"BANK_ACC.H"
+
+1772368424 d:\codeblock project\c++ lang code\practical\practical 1.1\bank_acc.h
+	<iostream>
+
